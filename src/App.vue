@@ -84,6 +84,7 @@ nav {
   .title {
     position: absolute;
     left: 50%;
+    top: 0;
     transform: translateX(-50%);
     color: #fff;
     font-size: 30px;
