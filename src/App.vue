@@ -19,7 +19,6 @@
       </div>
       <div class="title">
         <h1>ServiceBridge</h1>
-        
       </div>
     </nav>
     <router-view />
